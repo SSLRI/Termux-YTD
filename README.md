@@ -16,7 +16,7 @@ Instagram : https://www.instagram.com/sslri <br>
 <br>
 ### Installation:
 Just paste the below code in your termux and Done!. Everything will be automatically installed exept allowing storage permissions(So allow storage Permission when script ask and then its done.).<br><br>
-```cd && pkg install git -y && git clone https://github.com/sslri/Termux-YTD/ && cd Termux-YTD && bash install.sh```
+```cd && pkg install git -y && git clone https://github.com/SSLRI/Termux-YTD/ && cd Termux-YTD && bash install.sh```
 <br>
 <br>
 ### Run the script:
