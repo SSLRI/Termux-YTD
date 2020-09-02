@@ -2,7 +2,7 @@
 #### Termux-YouTube-Downloader
 This is The latest Script For Downloading Youtube Videos with your Termux. Download any Youtube Video in 2 Liks.
 <p align="center">
-  <img alt="Smiley face" src="http://s10.picofile.com/file/8407474542/ui.png">
+  <img alt="Smiley face" src="http://s11.picofile.com/file/8407475650/1599054396_picsay.png">
 </p>
 <br>
 
